@@ -1,0 +1,125 @@
+.container {
+    max-width: 851px;
+    margin: 0 auto;
+}
+
+.header {
+    padding: 54px 0 47px 191px;
+    border-bottom: 2px solid rgba(217, 217, 217, 1);
+}
+
+.header-logo {
+    font-family: "Oswald", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.hero-title {
+    font-size: 96px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.hero {
+    padding: 191px 0 99px;
+}
+
+.hero {
+    text-align: left;
+}
+
+.hero-title {
+    margin: 0 0 73px;
+}
+
+.hero-title span {
+    color: rgba(0, 173, 181, 1);
+}
+
+.hero-button {
+    padding: 10px 32px;
+    font-size: 18px;
+    font-weight: 700;
+    background: rgba(57, 62, 70, 1);
+    border-radius: 24px;
+    border: transparent;
+}
+
+.hero-item:first-child {
+    margin-bottom: 24px;
+}
+
+.hero-button:hover {
+    background: rgba(0, 173, 181, 1);
+}
+
+.about-title {
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.about-title span {
+    color: rgba(0, 173, 181, 1);
+}
+
+.about-text {
+    margin: 45px 0 67px;
+    color: rgba(238, 238, 238, 0.75);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.about-img {
+    display: block;
+    margin: 0 auto;
+}
+
+.skills {
+    padding: 171px 0 184px;
+    border-bottom: 2px solid #D9D9D9;
+    ;
+}
+
+.skills-title {
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    padding-bottom: 73px;
+}
+
+.skills-list {
+    font-size: 36px;
+    font-weight: 400;
+    padding-bottom: 73px;
+}
+
+.skills-item {
+    margin-bottom: 16px;
+}
+
+.skills-item:nth-child(even) {
+    color: rgba(0, 173, 181, 1);
+}
+
+.footer {
+    padding: 86px 0 51px;
+}
+
+.footer-title {
+    margin-bottom: 23px;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.footer-item {
+    padding: 2px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.footer-pisun {
+    margin-top: 23px;
+}
