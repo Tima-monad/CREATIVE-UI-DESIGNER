@@ -87,7 +87,7 @@
 .skills-list-item {
     font-size: 36px;
     color: rgba(238, 238, 238, 0.75);
-    padding-bottom: 16px;
+    margin-bottom: 16px;
 }
 
 .skills-list-item:last-child {
